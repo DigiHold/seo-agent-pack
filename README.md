@@ -18,7 +18,7 @@ That is the first objection, so here it is up front. The whole rulebook exists t
 - Every price, date and number is verified against a live source during the run, or it gets cut.
 - Nothing publishes on its own. Every piece stays a draft until a human approves it.
 
-It will not turn a thin site into an authority overnight, and it can still write a mediocre first draft. It just will not ship the slop most autonomous setups produce.
+It will not turn a thin site into an authority overnight, and the first drafts still need tuning to your voice. It just will not ship the slop most autonomous setups produce.
 
 ## What is inside
 
@@ -44,7 +44,7 @@ Every piece the agent writes saves as a draft, so a human always presses publish
 
 ## Honest limitations
 
-- First-week drafts are usually mediocre. The system gets better because every correction you write into the engine files is permanent.
+- The structure is solid from day one, but the first drafts still need tuning to your site's voice. The system sharpens fast because every correction you write into the engine files is permanent.
 - It needs real Search Console history to find quick wins, so a brand-new site with no data gets less out of it at the start.
 - It optimizes around one site's topic clusters. Point it at unrelated subjects and the quality drops.
 
