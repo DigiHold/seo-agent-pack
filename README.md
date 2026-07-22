@@ -1,5 +1,7 @@
 # SEO Agent
 
+![SEO Agent](banner.png)
+
 An autonomous SEO agent that drafts articles and pages for my sites every night, on a normal Claude subscription. This repo is the exact engine it runs on, cleaned of my own site names. It is not a demo or a template I wrote for GitHub. These are my working files, two months of corrections included.
 
 ## What it does
